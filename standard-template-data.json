@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-06T02:27:10.047621496Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-09T07:24:57.286520181Z",
     "templateType": "trip_d",
     "propertyId": "dff5874a-5e58-4617-8ca5-2e5e7960c56c",
     "homepageId": "fa5fce59-abb0-4d0d-81e9-40bd4c0a3891"
@@ -29,6 +29,9 @@
     "domain": "ariapension.co.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/6866",
     "ybsId": "20900",
+    "tripPropertyId": "6866",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -455,10 +458,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "6866",
-    "partnerType": "distributor_a",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
